@@ -1,0 +1,1301 @@
+2024-04-10 16:26:23,117 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 16:26:47,879 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 16:26:49,294 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 16:26:58,675 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\apps.py changed, reloading.
+2024-04-10 16:27:00,557 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 16:27:08,739 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-10 16:27:11,339 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 16:27:52,994 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-10 16:27:55,370 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:41:36,298 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-10 18:41:38,492 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:42:38,915 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-10 18:42:40,499 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:42:44,890 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-10 18:42:46,743 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:42:55,052 django.utils.autoreload INFO     D:\projects\zartek\venv\Lib\site-packages\rest_framework\generics.py changed, reloading.
+2024-04-10 18:42:57,046 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:44:35,885 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\pagination.py changed, reloading.
+2024-04-10 18:44:37,953 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:48:27,156 django.utils.autoreload INFO     D:\projects\zartek\zartek\urls.py changed, reloading.
+2024-04-10 18:48:28,602 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:48:33,090 django.utils.autoreload INFO     D:\projects\zartek\zartek\settings.py changed, reloading.
+2024-04-10 18:48:34,923 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:49:08,563 django.utils.autoreload INFO     D:\projects\zartek\zartek\settings.py changed, reloading.
+2024-04-10 18:49:10,038 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:49:46,115 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:49:47,528 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:49:51,738 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:49:52,978 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:49:57,165 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:49:58,486 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:50:00,492 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:50:02,058 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:50:06,829 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:50:08,089 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:50:18,812 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:50:20,037 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:50:23,652 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:50:24,862 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:52:14,826 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:52:16,204 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:52:18,722 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:52:19,976 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:52:28,424 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:52:29,714 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:52:37,280 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:52:38,653 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:52:40,676 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:52:41,936 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:52:47,615 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:52:48,996 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:53:07,052 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:53:08,340 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:53:13,004 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:53:14,295 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:53:19,196 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:53:20,648 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:53:24,171 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:53:25,547 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:53:28,627 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-10 18:53:29,934 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:53:37,948 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-10 18:53:39,617 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:53:43,400 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-10 18:53:45,211 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:53:50,283 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:53:51,701 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:53:54,676 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-10 18:53:56,106 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:54:06,491 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-10 18:54:07,915 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:54:16,358 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-10 18:54:18,165 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:54:21,897 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:54:23,231 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:54:37,333 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-10 18:54:39,154 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:54:45,301 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-10 18:54:46,665 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:54:49,521 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:54:50,818 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:55:38,516 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-10 18:55:40,191 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-10 18:59:19,973 django.request WARNING  Unauthorized: /api/auth/login
+2024-04-10 19:01:32,237 django.request WARNING  Unauthorized: /api/rides/v1/riderequest/create-or-update-riderequest
+2024-04-10 19:02:08,665 django.request WARNING  Not Found: /favicon.ico
+2024-04-13 11:43:39,608 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 11:44:20,787 django.request ERROR    Internal Server Error: /api/docs/
+Traceback (most recent call last):
+  File "D:\projects\zartek\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\projects\zartek\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\projects\zartek\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\views.py", line 94, in get
+    schema = generator.get_schema(request, self.public)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\generators.py", line 246, in get_schema
+    paths, prefix = self.get_paths(endpoints, components, request, public)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\generators.py", line 404, in get_paths
+    operation = self.get_operation(view, path, prefix, method, components, request)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\generators.py", line 446, in get_operation
+    operation = view_inspector.get_operation(operation_keys)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 45, in get_operation
+    responses = self.get_responses()
+                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 180, in get_responses
+    response_serializers = self.get_response_serializers()
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 235, in get_response_serializers
+    responses = self.get_default_responses()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\inspectors\view.py", line 211, in get_default_responses
+    default_schema = self.serializer_to_schema(default_schema) or ''
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 437, in serializer_to_schema
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 33, in get_schema
+    return self.probe_field_inspectors(serializer, openapi.Schema, self.use_definitions)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 228, in probe_field_inspectors
+    return self.probe_inspectors(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\inspectors\base.py", line 110, in probe_inspectors
+    result = method(obj, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 124, in field_to_swagger_object
+    actual_schema = definitions.setdefault(ref_name, make_schema_definition)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\openapi.py", line 688, in setdefault
+    ret = maker()
+          ^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\drf_yasg\inspectors\field.py", line 93, in make_schema_definition
+    for property_name, child in serializer.fields.items():
+                                ^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\django\utils\functional.py", line 49, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\rest_framework\serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+                      ^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\rest_framework\serializers.py", line 1076, in get_fields
+    field_class, field_kwargs = self.build_field(
+                                ^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\rest_framework\serializers.py", line 1222, in build_field
+    return self.build_unknown_field(field_name, model_class)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\projects\zartek\venv\Lib\site-packages\rest_framework\serializers.py", line 1340, in build_unknown_field
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: Field name `pickup_location` is not valid for model `Rides`.
+2024-04-13 11:44:32,986 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 11:44:35,049 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 11:44:38,652 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 11:44:40,265 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 11:44:45,004 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 11:44:46,423 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 11:48:02,242 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 11:48:31,142 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 11:48:35,898 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 11:48:37,834 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 11:53:15,512 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 11:53:16,719 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:09:51,167 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:10:01,121 django.request WARNING  Unauthorized: /api/users/update-driver-location
+2024-04-13 12:11:47,448 django.request WARNING  Unauthorized: /api/users/update-driver-location
+2024-04-13 12:12:06,450 django.request WARNING  Bad Request: /api/rides/v1/riderequest/create-or-update-riderequest
+2024-04-13 12:13:20,922 django.request WARNING  Unauthorized: /api/users/create-or-update-user
+2024-04-13 12:13:57,686 django.request WARNING  Method Not Allowed: /api/users/create-or-update-user
+2024-04-13 12:14:20,450 django.request WARNING  Not Found: /favicon.ico
+2024-04-13 12:14:28,859 django.request WARNING  Not Found: /admin/authors/authors/
+2024-04-13 12:17:41,422 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-riderequest
+2024-04-13 12:17:49,931 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 12:17:53,415 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:18:01,544 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:18:03,935 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:18:08,633 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:18:11,468 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:18:17,044 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:18:20,296 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:19:06,084 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:19:08,315 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:19:13,914 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:19:17,509 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:21:00,899 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:21:03,460 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:21:07,710 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:21:10,722 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:21:16,999 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:21:20,373 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:21:33,807 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 12:21:36,705 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:22:04,604 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:22:24,846 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:22:27,686 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:23:49,473 django.request WARNING  Unauthorized: /api/rides/v1/riderequest/get-riderequest-details
+2024-04-13 12:24:29,846 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:24:32,621 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:24:44,902 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\schemas.py changed, reloading.
+2024-04-13 12:24:47,978 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:24:56,136 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 12:24:59,344 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:25:07,576 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\schemas.py changed, reloading.
+2024-04-13 12:25:11,009 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:25:39,806 django.request WARNING  Unauthorized: /api/rides/v1/riderequest/get-riderequest-list
+2024-04-13 12:26:14,369 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-13 12:26:16,744 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:26:21,082 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-13 12:26:23,886 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:26:34,972 django.request WARNING  Not Found: /api/rides/v1/riderequest/get-riderequest-details
+2024-04-13 12:26:47,855 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-13 12:26:50,635 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:27:01,175 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-13 12:27:03,610 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:27:07,508 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-13 12:27:09,930 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:27:15,030 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:27:18,158 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:27:23,765 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:27:26,444 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:27:30,925 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:27:34,900 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:27:45,234 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:27:47,859 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:27:54,407 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:27:57,306 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:28:02,397 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:28:05,399 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:28:35,765 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:28:38,933 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:28:44,317 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:28:48,338 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:28:57,186 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:28:59,957 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:29:04,684 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:29:07,812 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:29:16,282 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:29:18,800 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:29:29,563 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:29:31,924 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:29:37,913 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:29:40,618 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:29:46,754 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:29:49,727 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:29:55,028 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:29:58,372 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:30:07,602 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:30:10,498 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:30:15,838 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:30:19,651 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:30:34,143 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:30:37,446 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:30:55,410 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:30:59,277 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:31:11,756 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 12:31:14,787 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:31:24,435 django.request WARNING  Unauthorized: /api/rides/v1/riderequest/update-ride-request-status
+2024-04-13 12:32:45,603 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 12:32:48,237 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:32:53,823 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 12:32:56,595 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:33:00,849 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 12:33:03,687 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:33:22,620 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 12:33:25,869 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:36:08,471 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:36:11,592 django.request WARNING  Bad Request: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-13 12:36:32,447 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/update-ride-request-status
+2024-04-13 12:36:47,963 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 12:36:52,251 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:36:59,293 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:37:02,584 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:37:07,210 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:37:10,689 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:37:15,386 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:37:18,792 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:37:26,253 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:37:28,920 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:37:35,718 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:37:39,236 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:37:49,145 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:37:52,329 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:37:59,910 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 12:38:03,210 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:38:08,455 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 12:38:12,364 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:38:18,208 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:38:20,999 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:38:26,080 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:38:28,974 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:38:33,597 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 12:38:37,229 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 12:38:40,331 django.request WARNING  Bad Request: /api/rides/v1/riderequest/update-ride-request-status
+2024-04-13 13:13:29,086 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 13:13:32,496 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 13:13:38,975 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 13:13:42,086 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 13:13:47,035 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 13:13:49,783 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 13:13:54,520 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 13:13:57,356 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 13:14:01,570 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 13:14:23,448 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 13:14:29,075 django.utils.autoreload INFO     D:\projects\zartek\apps\users\urls.py changed, reloading.
+2024-04-13 13:14:32,947 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 13:14:37,062 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-13 13:14:39,512 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 13:14:44,768 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-13 13:14:46,893 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:55:56,118 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-13 16:56:03,665 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:56:21,329 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 16:56:23,951 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:56:27,698 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 16:56:29,912 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:56:35,363 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 16:56:37,334 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:56:43,449 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 16:56:44,973 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:56:48,228 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 16:56:49,772 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:56:51,747 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 16:56:52,923 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:57:01,714 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 16:57:03,637 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:57:07,333 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 16:57:09,331 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:57:12,855 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 16:57:14,002 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:57:17,367 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 16:57:18,445 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:57:28,113 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 16:57:29,235 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:57:42,044 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 16:57:43,452 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:57:45,732 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 16:57:46,941 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:58:03,899 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 16:58:05,037 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:58:10,174 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 16:58:11,056 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:58:28,097 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 16:58:29,267 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:58:31,080 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 16:58:32,088 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:58:33,931 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 16:58:34,860 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:58:37,922 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 16:58:38,901 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:58:41,252 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 16:58:42,180 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:58:48,519 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 16:58:49,497 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:58:53,720 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 16:58:54,602 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:01,988 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 16:59:03,012 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:05,182 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 16:59:06,337 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:09,156 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 16:59:10,142 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:13,344 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 16:59:14,356 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:20,758 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 16:59:21,674 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:23,598 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 16:59:24,737 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:31,748 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 16:59:32,921 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:38,134 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 16:59:39,281 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:42,620 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 16:59:43,743 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:45,471 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 16:59:46,612 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:49,369 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 16:59:50,401 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:54,218 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 16:59:55,214 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 16:59:57,206 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 16:59:58,122 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:00:04,437 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:00:05,435 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:00:08,873 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:00:09,999 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:00:13,183 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:00:14,295 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:00:16,524 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:00:17,548 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:00:20,771 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:00:21,955 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:00:27,949 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 17:00:30,863 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:00:35,238 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:00:38,337 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:00:42,724 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:00:44,381 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:00:46,922 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:00:48,900 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:00:51,386 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:00:52,651 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:00:55,061 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:00:56,146 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:01:06,748 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:01:07,769 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:01:10,165 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:01:11,165 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:01:15,431 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:01:16,666 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:01:18,991 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:01:20,015 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:01:22,484 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:01:23,581 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:01:25,882 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:01:26,896 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:01:29,246 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:01:30,274 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:01:36,586 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:01:37,731 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:01:45,628 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:01:46,556 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:01:56,258 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:01:57,277 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:02:14,500 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:02:15,706 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:02:19,098 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:02:20,237 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:02:26,645 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:02:27,746 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:02:36,566 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:02:37,449 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:02:41,287 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:02:42,534 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:02:46,755 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:02:47,921 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:02:51,204 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:02:52,270 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:02:56,508 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:02:57,621 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:02:59,823 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:03:00,763 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:03:02,929 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:03:03,964 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:03:11,410 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:03:12,627 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:03:14,827 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:03:16,533 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:03:29,422 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:03:30,518 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:03:42,266 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:03:43,396 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:03:47,056 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\urls.py changed, reloading.
+2024-04-13 17:03:48,007 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:03:57,570 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:03:58,696 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:04:02,943 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:04:04,222 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:04:06,350 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:04:07,584 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:04:13,742 django.request WARNING  Unauthorized: /api/rides/v1/riderequest/update-ride-location
+2024-04-13 17:05:09,298 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/update-ride-location
+2024-04-13 17:05:32,325 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:05:33,637 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:05:36,733 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/update-ride-location
+2024-04-13 17:05:40,374 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 17:05:42,200 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:05:52,055 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 17:05:53,479 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 17:10:59,358 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 17:11:00,980 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 18:40:47,662 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 18:40:49,413 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:22:33,618 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:23:19,559 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:23:30,122 django.utils.autoreload INFO     D:\projects\zartek\venv\Lib\site-packages\rest_framework_simplejwt\utils.py changed, reloading.
+2024-04-13 20:23:34,102 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:24:41,906 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:29:13,916 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:46:48,697 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 20:46:52,854 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:47:04,451 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:47:07,633 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:47:42,707 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:47:46,252 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:47:52,389 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:47:55,447 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:48:48,287 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:48:51,137 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:48:56,186 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:48:59,379 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:49:04,790 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:49:07,138 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:49:15,084 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:49:19,030 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:49:24,445 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:49:27,265 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:50:06,400 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 20:50:09,648 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:52:29,477 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:52:32,548 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:52:36,179 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:52:38,897 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:52:49,780 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:52:53,153 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:53:03,969 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:53:07,526 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:53:13,835 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:53:18,283 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:53:28,088 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:53:30,879 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:53:50,776 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 20:53:53,700 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:53:58,516 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:54:02,257 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:54:07,561 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:54:11,117 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:54:17,785 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:54:20,439 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:54:25,225 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:54:28,223 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:54:33,157 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:54:36,976 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:54:41,603 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:54:44,871 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:54:49,780 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:54:52,828 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:54:57,303 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:55:00,546 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:55:08,421 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:55:10,958 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:55:16,638 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:55:19,592 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:55:26,354 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:55:29,876 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:55:34,947 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:55:37,579 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:55:41,770 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:55:45,176 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:55:50,209 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:55:53,732 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:56:05,417 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:56:08,280 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:56:14,176 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:56:17,381 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:56:21,887 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:56:24,662 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:56:28,986 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:56:32,196 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:56:38,410 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:56:41,380 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:56:46,340 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:56:50,737 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:56:56,290 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:57:00,325 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:57:05,645 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:57:08,902 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:57:40,726 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:57:44,085 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:57:50,966 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:57:54,621 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:57:59,621 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:58:03,332 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:58:12,767 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:58:15,539 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:58:20,642 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:58:23,267 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:58:29,994 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:58:32,921 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:58:37,042 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-13 20:58:48,611 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 20:58:52,075 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:58:57,177 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:59:00,176 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:59:04,771 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:59:07,017 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:59:18,246 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:59:21,258 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:59:25,575 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-13 20:59:31,688 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 20:59:34,051 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:59:37,180 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-13 20:59:44,760 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 20:59:47,663 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 20:59:51,310 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-13 21:00:01,969 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:00:05,607 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:00:13,901 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:00:17,432 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:00:21,298 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-13 21:00:42,358 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:00:45,520 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:00:54,506 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:00:58,040 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:01:00,972 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-13 21:01:50,258 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:01:53,568 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:01:57,762 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:02:01,051 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:02:07,976 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:02:11,454 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:02:29,370 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:02:32,691 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:02:51,925 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:02:55,464 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:02:59,591 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-13 21:03:15,912 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:03:19,339 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:03:24,504 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:03:28,239 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:03:42,237 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:03:45,045 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:03:50,334 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:03:52,887 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:04:24,236 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-13 21:04:42,034 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:04:45,222 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:04:48,778 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:04:51,803 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:04:56,726 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:04:59,565 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:05:04,455 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:05:07,488 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:05:12,601 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:05:14,925 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:05:19,617 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:05:22,550 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:05:26,210 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:05:28,881 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:05:33,804 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:05:36,974 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:05:40,389 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:05:43,674 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:05:48,523 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:05:51,589 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:05:57,607 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:06:00,363 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:06:03,404 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:06:06,663 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:06:10,449 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:06:13,378 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:06:17,658 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-13 21:06:53,523 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:06:56,402 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:07:08,354 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:07:11,669 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:10:31,543 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:10:34,884 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:10:40,473 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:10:42,975 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:11:09,012 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:11:11,869 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:11:15,189 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:11:18,321 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:11:22,075 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:11:24,835 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:11:30,696 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:11:34,240 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:11:40,457 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:11:43,417 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:11:49,638 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:11:54,778 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:15:24,629 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:15:27,842 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:15:35,682 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:15:39,054 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:15:47,511 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:15:51,506 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:16:02,825 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:16:06,625 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:16:08,549 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-13 21:16:20,989 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:16:23,822 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:16:42,673 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:16:45,977 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:16:50,562 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:16:53,410 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:16:58,172 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:17:00,968 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:17:14,383 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:17:17,177 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:19:16,403 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:19:19,211 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:19:23,792 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:19:27,715 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:19:33,339 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:19:36,397 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:19:42,791 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:19:45,782 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:19:53,430 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:19:55,792 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:20:00,613 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:20:03,506 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:20:09,270 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:20:12,314 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:20:17,041 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:20:20,070 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:20:24,829 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:20:27,432 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:20:49,484 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 21:20:52,823 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:20:58,449 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 21:21:02,514 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:21:45,769 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:21:49,713 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:21:56,018 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:22:00,183 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:22:06,704 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:22:09,875 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:22:14,532 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:22:17,745 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:22:33,657 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:22:36,715 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:22:40,958 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:22:44,516 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:22:48,991 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:22:51,750 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:23:02,033 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:23:05,120 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:23:08,689 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:23:11,393 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:23:16,371 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:23:19,901 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:23:29,977 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:23:32,592 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:23:38,580 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:23:41,563 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:23:46,881 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:23:50,232 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:23:58,828 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:24:01,600 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:24:04,444 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:24:07,398 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:24:39,325 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:25:01,691 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:25:17,195 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:25:20,300 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:25:29,313 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:25:32,483 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:25:36,582 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:25:40,224 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:25:44,939 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:25:47,997 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:25:52,397 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:25:55,562 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:26:01,694 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:26:05,642 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:26:17,250 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:26:21,249 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:26:25,996 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:26:28,919 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:27:04,839 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:27:10,224 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:27:13,765 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:27:21,253 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:27:24,601 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:27:48,697 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:27:51,772 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:27:58,749 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:28:02,446 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:28:09,579 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 21:28:12,250 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:29:46,030 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:29:49,632 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:29:54,437 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 21:29:57,248 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:30:01,858 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 21:30:04,726 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:30:34,634 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:30:39,047 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:30:42,975 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:30:50,893 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:30:53,525 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:31:05,221 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:31:08,160 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:31:13,915 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:31:16,423 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:31:19,916 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:31:23,057 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:31:28,427 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:31:31,501 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:31:37,970 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:31:41,332 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:31:46,012 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:31:48,255 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:31:52,310 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:31:54,870 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:32:02,717 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:32:05,843 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:32:19,535 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:32:21,979 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:32:40,533 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-13 21:32:55,636 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:32:58,074 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:33:11,029 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-13 21:33:14,704 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:33:24,044 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-13 21:33:26,826 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:33:53,248 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 21:33:56,075 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:34:01,716 django.utils.autoreload INFO     D:\projects\zartek\apps\users\admin.py changed, reloading.
+2024-04-13 21:34:04,471 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:34:24,743 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:34:33,038 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:34:36,048 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:34:41,471 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:34:44,280 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:35:26,033 django.utils.autoreload INFO     D:\projects\zartek\apps\users\admin.py changed, reloading.
+2024-04-13 21:35:29,862 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:35:39,387 django.utils.autoreload INFO     D:\projects\zartek\apps\users\urls.py changed, reloading.
+2024-04-13 21:35:42,179 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:35:46,692 django.utils.autoreload INFO     D:\projects\zartek\apps\users\urls.py changed, reloading.
+2024-04-13 21:35:49,348 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:35:53,573 django.utils.autoreload INFO     D:\projects\zartek\apps\users\urls.py changed, reloading.
+2024-04-13 21:35:56,036 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:36:04,548 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 21:36:08,520 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:36:13,315 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:36:16,475 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:36:20,987 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:36:23,598 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:36:27,796 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:36:30,893 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:36:38,782 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:36:41,893 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:36:45,436 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:36:48,889 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:36:56,309 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:36:59,503 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:37:06,569 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:37:08,926 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:37:15,370 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:37:17,862 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:37:21,840 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:37:24,560 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:37:34,342 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:37:37,717 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:37:42,305 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:37:44,925 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:37:52,397 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:37:56,434 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:38:02,397 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:38:05,674 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:38:10,437 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:38:13,293 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:38:19,437 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:38:23,167 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:38:33,365 django.utils.autoreload INFO     D:\projects\zartek\apps\users\schemas.py changed, reloading.
+2024-04-13 21:38:36,679 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:38:47,343 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:38:50,778 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:38:55,308 django.utils.autoreload INFO     D:\projects\zartek\apps\users\schemas.py changed, reloading.
+2024-04-13 21:38:57,770 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:39:03,439 django.utils.autoreload INFO     D:\projects\zartek\apps\users\schemas.py changed, reloading.
+2024-04-13 21:39:07,368 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:39:13,229 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:39:15,318 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:39:26,690 django.utils.autoreload INFO     D:\projects\zartek\apps\users\schemas.py changed, reloading.
+2024-04-13 21:39:31,114 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:39:43,593 django.utils.autoreload INFO     D:\projects\zartek\apps\users\schemas.py changed, reloading.
+2024-04-13 21:39:46,068 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:39:56,320 django.utils.autoreload INFO     D:\projects\zartek\apps\users\schemas.py changed, reloading.
+2024-04-13 21:39:59,419 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:40:05,319 django.utils.autoreload INFO     D:\projects\zartek\apps\users\schemas.py changed, reloading.
+2024-04-13 21:40:08,610 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:40:13,767 django.utils.autoreload INFO     D:\projects\zartek\apps\users\schemas.py changed, reloading.
+2024-04-13 21:40:17,020 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:40:23,394 django.utils.autoreload INFO     D:\projects\zartek\apps\users\schemas.py changed, reloading.
+2024-04-13 21:40:26,628 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:40:30,902 django.utils.autoreload INFO     D:\projects\zartek\apps\users\schemas.py changed, reloading.
+2024-04-13 21:40:33,810 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:40:54,625 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 21:40:56,811 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:41:01,847 django.utils.autoreload INFO     D:\projects\zartek\apps\users\schemas.py changed, reloading.
+2024-04-13 21:41:04,995 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:41:12,823 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:41:15,781 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:41:21,081 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:41:23,445 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:41:26,290 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:41:29,309 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:41:35,903 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:41:39,144 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:41:44,373 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:41:47,529 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:41:50,891 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:41:53,894 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:42:06,006 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:42:08,892 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:42:14,804 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:42:18,656 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:42:23,336 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:42:25,573 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:42:32,312 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:42:34,666 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:42:40,419 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:42:43,076 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:42:47,470 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 21:42:50,562 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:43:11,577 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:43:20,173 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:43:24,195 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:43:33,777 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:43:36,432 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:43:40,963 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:43:43,379 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:43:52,708 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 21:43:55,335 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:44:05,408 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:44:08,635 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:44:15,912 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:44:18,982 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:44:26,546 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 21:44:29,243 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:44:33,960 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:44:37,193 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:44:40,456 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:44:43,172 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:44:48,249 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:44:51,473 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:44:55,739 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\views.py changed, reloading.
+2024-04-13 21:44:58,346 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:45:03,273 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:45:05,693 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:45:15,363 django.utils.autoreload INFO     D:\projects\zartek\apps\users\schemas.py changed, reloading.
+2024-04-13 21:45:18,440 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:45:42,278 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:45:45,718 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:46:25,838 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:46:28,585 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:46:37,084 django.request WARNING  Unauthorized: /api/users/pending-ride-request
+2024-04-13 21:47:48,767 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:47:51,769 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 21:47:56,451 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 21:47:59,322 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:20:29,632 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 22:20:32,761 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:20:37,469 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 22:20:39,924 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:20:44,608 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 22:20:47,415 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:20:58,627 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 22:21:01,890 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:22:15,611 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:22:18,384 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:22:23,000 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:22:27,071 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:22:32,317 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:22:35,200 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:22:42,178 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 22:22:45,293 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:22:50,991 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:22:53,910 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:22:59,443 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:23:02,237 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:23:06,991 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:23:11,212 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:23:20,690 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 22:23:24,296 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:23:29,646 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:23:32,970 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:23:37,733 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:23:40,933 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:24:00,945 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:24:04,933 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:24:09,730 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 22:24:11,929 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:24:17,470 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-13 22:24:21,011 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:24:27,241 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 22:24:30,551 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:24:35,753 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:24:38,831 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:24:52,312 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:24:55,253 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:25:00,078 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:25:03,305 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:25:07,966 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:25:11,305 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:25:16,240 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:25:19,973 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:25:30,959 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:25:34,171 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:25:39,840 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:25:42,708 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:26:08,282 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:26:11,615 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:26:16,273 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:26:18,304 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:26:28,043 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:26:31,339 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:26:35,915 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:26:38,439 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:26:42,451 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:26:45,313 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:27:14,959 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:27:18,562 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:27:30,291 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:27:33,156 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:27:40,948 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:27:44,012 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:27:48,696 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:27:52,356 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:27:59,088 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:28:02,701 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:28:06,287 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:28:09,888 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:28:13,659 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:28:17,166 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:28:25,219 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:28:28,501 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:28:52,601 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:28:55,409 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:29:00,665 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:29:04,088 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:29:12,959 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:29:15,629 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:29:22,165 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:29:24,972 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:29:29,933 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:29:33,309 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:30:18,146 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:30:21,499 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:30:42,696 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:30:46,418 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:30:50,382 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:30:52,549 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:32:24,808 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:32:27,665 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:32:31,779 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:32:35,258 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:32:39,961 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:32:43,155 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:32:53,547 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:32:56,665 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:33:01,489 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:33:04,729 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:33:12,262 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:33:15,499 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:33:28,526 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:33:31,461 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:33:36,550 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:33:39,276 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:33:42,546 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:33:45,340 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:33:48,357 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:33:50,980 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:34:15,919 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:34:18,653 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:34:28,754 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:34:32,435 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:34:39,134 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:34:42,192 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:34:47,482 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:34:50,138 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:34:54,354 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:34:56,897 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:35:01,490 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:35:04,583 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:35:20,914 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:35:23,162 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:35:33,925 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:35:36,510 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:35:40,798 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:35:43,193 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:35:57,442 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:36:00,739 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:37:30,983 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:37:35,812 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:37:40,944 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:37:44,244 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:37:50,063 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:37:53,923 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:37:59,907 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:38:03,462 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:38:08,669 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:38:11,594 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:38:16,808 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:38:19,133 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:38:41,147 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:38:43,509 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:38:47,859 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:38:50,339 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:38:57,341 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:39:00,621 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:39:05,890 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:39:08,887 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:39:13,998 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:39:16,231 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:39:21,546 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:39:24,743 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:39:42,106 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 22:39:46,055 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:39:50,207 django.utils.autoreload INFO     D:\projects\zartek\apps\users\urls.py changed, reloading.
+2024-04-13 22:39:53,195 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:39:57,704 django.utils.autoreload INFO     D:\projects\zartek\apps\users\urls.py changed, reloading.
+2024-04-13 22:40:00,166 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:40:10,419 django.request WARNING  Unauthorized: /api/users/accept-ride-request
+2024-04-13 22:40:20,664 django.request ERROR    Internal Server Error: /api/users/accept-ride-request
+2024-04-13 22:40:29,672 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-13 22:40:33,684 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:40:42,131 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-13 22:40:45,437 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-13 22:43:03,737 django.utils.autoreload INFO     D:\projects\zartek\apps\users\views.py changed, reloading.
+2024-04-13 22:43:08,498 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:41:19,923 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:41:26,846 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:41:33,711 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:41:34,711 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:41:39,084 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:41:40,322 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:41:46,033 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:41:46,999 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:41:49,191 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:41:50,332 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:41:54,644 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:41:55,672 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:41:59,097 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:42:00,494 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:42:06,083 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:42:07,579 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:42:10,963 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:42:12,489 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:42:33,094 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:42:34,355 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:42:36,894 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:42:38,150 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:43:00,076 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:43:01,548 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:43:03,942 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:43:05,525 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:43:09,310 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:43:11,086 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:43:13,891 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:43:15,532 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:43:23,453 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:43:24,892 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:43:26,993 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:43:28,456 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:43:35,048 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:43:36,321 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:43:53,881 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:43:55,460 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:43:58,558 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:44:00,398 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:44:02,445 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:44:04,012 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:44:47,519 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:44:49,393 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:44:52,699 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:44:54,144 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:44:56,629 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:44:57,939 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:45:00,473 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:45:01,658 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:45:05,453 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:45:07,124 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:45:17,647 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:45:18,778 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:45:23,848 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:45:25,334 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:45:32,074 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:45:34,209 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:45:37,595 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:45:39,859 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:45:43,093 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:45:44,803 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:46:00,277 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:46:02,101 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:46:06,807 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\serializers.py changed, reloading.
+2024-04-14 12:46:08,492 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:46:20,969 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:46:22,600 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:46:27,082 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:46:28,281 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:46:38,215 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:46:39,524 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:46:41,834 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:46:43,416 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:46:46,922 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:46:48,185 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:46:50,560 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:46:51,945 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:46:53,862 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:46:55,121 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:46:57,008 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:46:58,333 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:47:01,628 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:47:02,704 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:47:08,048 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:47:09,099 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:47:11,404 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:47:12,439 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:47:25,543 django.request WARNING  Bad Request: /api/users/accept-ride-request
+2024-04-14 12:47:38,610 django.request WARNING  Unauthorized: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-14 12:48:26,796 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:48:28,264 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:48:36,816 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:48:37,842 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:48:43,247 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:48:44,482 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:48:48,610 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:48:49,813 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:49:01,016 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:49:02,154 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:49:09,970 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:49:11,375 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:49:14,754 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:49:16,078 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:49:19,650 django.utils.autoreload INFO     D:\projects\zartek\apps\users\serializers.py changed, reloading.
+2024-04-14 12:49:21,652 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:49:25,464 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:49:26,970 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:49:29,480 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:49:30,590 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:49:43,705 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:49:44,976 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:49:49,644 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:49:50,888 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:49:56,029 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:49:57,179 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:50:05,322 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:50:06,481 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:50:13,567 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:50:14,804 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:50:27,611 django.request WARNING  Bad Request: /api/users/accept-ride-request
+2024-04-14 12:50:47,169 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:50:48,306 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:50:52,799 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:50:54,188 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:50:56,560 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:50:57,891 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:51:02,341 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:51:03,452 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:51:06,732 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:51:08,709 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:51:51,620 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:51:53,094 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:51:56,284 django.utils.autoreload INFO     D:\projects\zartek\zartek\helpers\nearest_driver_find.py changed, reloading.
+2024-04-14 12:51:58,833 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 12:53:31,098 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-14 12:53:32,188 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 13:23:34,629 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:05:00,714 django.utils.autoreload INFO     D:\projects\zartek\apps\rides\models.py changed, reloading.
+2024-04-14 15:05:03,895 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:05:44,983 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:07:57,991 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:08:34,729 django.utils.autoreload INFO     D:\projects\zartek\zartek\settings.py changed, reloading.
+2024-04-14 15:08:39,525 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:09:31,921 django.utils.autoreload INFO     D:\projects\zartek\zartek\settings.py changed, reloading.
+2024-04-14 15:14:37,643 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:19:13,984 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:20:10,602 django.utils.autoreload INFO     D:\projects\zartek\zartek\settings.py changed, reloading.
+2024-04-14 15:20:12,987 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:20:16,751 django.utils.autoreload INFO     D:\projects\zartek\zartek\settings.py changed, reloading.
+2024-04-14 15:21:50,223 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:22:32,656 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:22:56,323 django.utils.autoreload INFO     D:\projects\zartek\venv\Lib\site-packages\rest_framework_simplejwt\utils.py changed, reloading.
+2024-04-14 15:22:58,816 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:23:40,829 django.utils.autoreload INFO     D:\projects\zartek\venv\Lib\site-packages\rest_framework_simplejwt\utils.py changed, reloading.
+2024-04-14 15:23:43,413 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:24:44,471 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:37:16,275 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:42:12,829 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:43:35,389 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:47:21,978 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:47:42,164 django.utils.autoreload INFO     D:\projects\zartek\venv\Lib\site-packages\rest_framework_simplejwt\utils.py changed, reloading.
+2024-04-14 15:47:45,211 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:47:53,383 django.utils.autoreload INFO     D:\projects\zartek\venv\Lib\site-packages\rest_framework_simplejwt\compat.py changed, reloading.
+2024-04-14 15:55:07,611 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:55:33,145 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:58:04,991 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:59:15,969 django.utils.autoreload INFO     D:\projects\zartek\apps\users\models.py changed, reloading.
+2024-04-14 15:59:19,181 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 15:59:31,758 django.utils.autoreload INFO     D:\projects\zartek\apps\users\urls.py changed, reloading.
+2024-04-14 15:59:36,006 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 16:16:54,273 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-04-14 17:58:09,535 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
+2024-04-14 18:00:10,677 django.request ERROR    Internal Server Error: /api/rides/v1/riderequest/create-or-update-ride-request
